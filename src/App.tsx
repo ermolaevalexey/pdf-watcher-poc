@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { PdfWatcher } from './PdfWatcher';
+import { ReactPdfWatcher } from './ReactPdfWatcher';
 
 function App() {
   return (
@@ -18,6 +20,10 @@ function App() {
         >
           Learn React
         </a>
+        {/* eslint-disable-next-line react/jsx-no-undef */}
+        {/*<PdfWatcher url={require('./a-sample-pdf.pdf')} />*/}
+        {/* eslint-disable-next-line react/jsx-no-undef */}
+        <ReactPdfWatcher fileUrl={'http://media.pragprog.com/titles/ktuk/excerpts.pdf'} />
       </header>
     </div>
   );
