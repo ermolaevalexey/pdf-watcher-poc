@@ -23,8 +23,32 @@
 
 .App-Content {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.App-Form {
+  display: flex;
+  flex-direction: column;
+}
+
+.disclaimer {
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.links {
+  text-align: left;
+}
+
+.links li > code {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: lightgray;
+  font-size: 12px;
+  margin-top: 10px;
 }
 
 .Watcher-container {
