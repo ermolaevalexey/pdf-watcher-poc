@@ -43,6 +43,7 @@ export function ReactPdfWatcher(props: ReactPdfWatcherProps) {
         className="document"
         file={binaryFile}
         onLoadSuccess={updatePagesCount}
+        renderMode="svg"
       >
         {!!pagesCount && range(1, pagesCount + 1).map((pageNumber) =>
           <Page
