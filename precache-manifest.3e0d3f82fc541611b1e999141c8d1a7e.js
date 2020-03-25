@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1d0158315e010ef13a33620465fe59c",
+    "revision": "a42696f2c53a96dddccfa6650f25dfa7",
     "url": "/pdf-watcher-poc/index.html"
   },
   {
-    "revision": "f27e8c6e9b6567b5558d",
+    "revision": "b5e76fa7f04180bfea53",
     "url": "/pdf-watcher-poc/static/css/main.66d01e7d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdf-watcher-poc/static/js/2.4546b5d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f27e8c6e9b6567b5558d",
-    "url": "/pdf-watcher-poc/static/js/main.5c9919d1.chunk.js"
+    "revision": "b5e76fa7f04180bfea53",
+    "url": "/pdf-watcher-poc/static/js/main.e817c716.chunk.js"
   },
   {
     "revision": "570b2cadc8ef288b519d",
