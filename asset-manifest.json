@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pdf-watcher-poc/static/css/main.4be4efd0.chunk.css",
+    "main.js": "/pdf-watcher-poc/static/js/main.b8c7c46e.chunk.js",
+    "main.js.map": "/pdf-watcher-poc/static/js/main.b8c7c46e.chunk.js.map",
+    "runtime-main.js": "/pdf-watcher-poc/static/js/runtime-main.64c07321.js",
+    "runtime-main.js.map": "/pdf-watcher-poc/static/js/runtime-main.64c07321.js.map",
+    "static/js/2.4546b5d4.chunk.js": "/pdf-watcher-poc/static/js/2.4546b5d4.chunk.js",
+    "static/js/2.4546b5d4.chunk.js.map": "/pdf-watcher-poc/static/js/2.4546b5d4.chunk.js.map",
+    "index.html": "/pdf-watcher-poc/index.html",
+    "precache-manifest.2e3bb1f09b60f261800ba052b08bc109.js": "/pdf-watcher-poc/precache-manifest.2e3bb1f09b60f261800ba052b08bc109.js",
+    "service-worker.js": "/pdf-watcher-poc/service-worker.js",
+    "static/css/main.4be4efd0.chunk.css.map": "/pdf-watcher-poc/static/css/main.4be4efd0.chunk.css.map",
+    "static/js/2.4546b5d4.chunk.js.LICENSE.txt": "/pdf-watcher-poc/static/js/2.4546b5d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64c07321.js",
+    "static/js/2.4546b5d4.chunk.js",
+    "static/css/main.4be4efd0.chunk.css",
+    "static/js/main.b8c7c46e.chunk.js"
+  ]
+}
