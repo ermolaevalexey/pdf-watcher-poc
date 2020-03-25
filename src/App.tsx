@@ -21,8 +21,8 @@ function App() {
           <li><code>https://raw.githubusercontent.com/diegomura/react-pdf/master/examples/resume/output.pdf</code></li>
           <li><code>https://raw.githubusercontent.com/diegomura/react-pdf/master/examples/pageWrap/output.pdf</code></li>
           <li><code>https://raw.githubusercontent.com/diegomura/react-pdf/master/examples/knobs/output.pdf</code></li>
-          <li><code>{`//${window.location.host}${window.location.pathname}/a-sample-pdf.pdf`}</code></li>
-          <li><code>{`//${window.location.host}${window.location.pathname}/gre_research_validity_data.pdf`}</code></li>
+          <li><code>https://ermolaevalexey.github.io/pdf-watcher-poc/a-sample-pdf.pdf</code></li>
+          <li><code>https://ermolaevalexey.github.io/pdf-watcher-poc/gre_research_validity_data.pdf`</code></li>
         </ul>
         <div className="App-Form">
           <input type="text" value={url} onChange={updateUrl} />
